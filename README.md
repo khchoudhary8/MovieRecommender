@@ -105,9 +105,15 @@ C is the mean vote across the whole report
 
 <img src="https://github.com/khchoudhary8/MovieRecommender/assets/76583677/8fdcbe39-967d-4414-9c1f-f66ad7c6ec49.jpg" width="850" height="450">
 
+
+
 <img src="https://github.com/khchoudhary8/MovieRecommender/assets/76583677/7875f58b-0ae1-4d94-b035-b1be548f385b.jpg" width="800" height="450">  
 
-<img src="https://github.com/khchoudhary8/MovieRecommender/assets/76583677/2c6d7fde-6400-4c1b-a911-dda271169272.jpg" width="600" height="450">
+
+
+<img src="https://github.com/khchoudhary8/MovieRecommender/assets/76583677/2c6d7fde-6400-4c1b-a911-dda271169272.jpg" width="600" height="550">
+
+
 
 
 ## Thank You
